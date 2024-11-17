@@ -12,6 +12,7 @@ def divide(x, y):
         return "Erro! Divisão por zero."
     return x / y
 
+
 def calculator():
     print("Selecione a operação:")
     print("1. Adição")
